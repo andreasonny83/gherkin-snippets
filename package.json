@@ -1,0 +1,21 @@
+{
+  "name": "gherkin-snippets",
+  "main": "./lib/gherkin-snippets",
+  "version": "0.1.0",
+  "description": "Gherkin snippets for Atom",
+  "author": {
+    "name": "Andrea SonnY",
+    "email": "andreasonny83@gmail.com"
+  },
+  "activationCommands": {
+    "atom-text-editor": [
+      "gherkin-autocomplete:toggle"
+    ]
+  },
+  "repository": "https://github.com/andreasonny83/gherkin-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
