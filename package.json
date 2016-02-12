@@ -1,7 +1,7 @@
 {
   "name": "gherkin-snippets",
   "main": "./lib/gherkin-snippets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Gherkin snippets for Atom",
   "author": {
     "name": "Andrea SonnY",
