@@ -1,4 +1,4 @@
-## 0.2.1 - Documentation
+## 0.2.3 - Documentation
 * Some documentation in README
 
 ## 0.2.0 - First Release

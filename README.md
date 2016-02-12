@@ -11,11 +11,11 @@ Go to `atom > Preferences...` then search for Gherkin Snippets in the `Install` 
 
 * feature
 
-![Cucumber logo](https://github.com/andreasonny83/gherkin-snippets/doc/feature.gif)
+![Cucumber logo](https://raw.githubusercontent.com/andreasonny83/gherkin-snippets/master/doc/feature.gif)
 
 * scenario
 
-![Cucumber logo](https://github.com/andreasonny83/gherkin-snippets/doc/scenario.gif)
+![Cucumber logo](https://raw.githubusercontent.com/andreasonny83/gherkin-snippets/master/doc/scenario.gif)
 
 ## Contributing
 
