@@ -1,0 +1,6 @@
+'.source.feature':
+  'Given':
+    'prefix': 'given'
+    'body': """
+      Given:
+    """
