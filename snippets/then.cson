@@ -1,0 +1,6 @@
+'.source.feature':
+  'Then':
+    'prefix': 'then'
+    'body': """
+      Then 
+    """

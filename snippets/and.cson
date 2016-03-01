@@ -1,0 +1,6 @@
+'.source.feature':
+  'And':
+    'prefix': 'and'
+    'body': """
+      And 
+    """
