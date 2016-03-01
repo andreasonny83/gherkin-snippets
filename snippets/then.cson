@@ -2,5 +2,5 @@
   'Then':
     'prefix': 'then'
     'body': """
-      Then: 
+      Then 
     """

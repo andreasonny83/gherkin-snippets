@@ -2,5 +2,5 @@
   'When':
     'prefix': 'when'
     'body': """
-      When: 
+      When 
     """

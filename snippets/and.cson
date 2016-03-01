@@ -2,5 +2,5 @@
   'And':
     'prefix': 'and'
     'body': """
-      And:
+      And 
     """
