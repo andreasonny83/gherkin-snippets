@@ -1,0 +1,9 @@
+".source.feature":
+  "Background":
+    "prefix": "background"
+    "body": """
+      Background:
+        Given ${1:A £100 microwave was sold on 2015-11-03}
+        And ${2:Today is 2015-11-18}
+      $0
+    """

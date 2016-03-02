@@ -1,9 +1,11 @@
-'.source.feature':
-  'Feature':
-    'prefix': 'scenario'
-    'body': """
-      Scenario: Reading documentation
-        Given I am on the Cucumber.js GitHub repository
-        When I go to the README file
-        Then I should see "Usage" as the page title
+".source.feature":
+  "Scenario":
+    "prefix": "scenario"
+    "body": """
+      Scenario: ${1:Jeff returns a faulty microwave}
+        Given ${2:Jeff has bought a microwave for $100}
+        And ${3:He has a receipt}
+        When ${4:He returns the microwave}
+        Then ${5:Jeff should be refunded $100}
+      $0
     """

@@ -1,0 +1,7 @@
+".source.feature":
+  "And":
+    "prefix": "and"
+    "body": """
+      And ${1:He has a receipt}
+      $0
+    """

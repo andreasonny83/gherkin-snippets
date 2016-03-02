@@ -1,0 +1,7 @@
+".source.feature":
+  "Given":
+    "prefix": "given"
+    "body": """
+      Given ${1:Jeff has bought a microwave for $100}
+      $0
+    """

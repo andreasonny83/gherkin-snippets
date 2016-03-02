@@ -1,0 +1,7 @@
+".source.feature":
+  "Then":
+    "prefix": "then"
+    "body": """
+      Then ${1:Jeff should be refunded £100}
+      $0
+    """

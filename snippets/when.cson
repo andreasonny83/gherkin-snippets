@@ -1,0 +1,7 @@
+".source.feature":
+  "When":
+    "prefix": "when"
+    "body": """
+      When ${1:He returns the microwave}
+      $0
+    """

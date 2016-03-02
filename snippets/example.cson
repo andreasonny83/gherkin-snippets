@@ -1,0 +1,9 @@
+".source.feature":
+  "Examples":
+    "prefix": "example"
+    "body": """
+    Examples:
+      | ${1:weight} | ${2:energy} | ${3:protein} |
+      | ${4:450}    | ${5:26500}  | ${6:215}     |
+    $0
+    """

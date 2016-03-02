@@ -1,0 +1,9 @@
+".source.feature":
+  "Rules":
+    "prefix": "rules"
+    "body": """
+      Rules:
+      - ${1:Customer must present proof of purchase}
+      - ${2:Purchase must be less than 30 days ago}
+      $0
+    """

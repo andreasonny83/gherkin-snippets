@@ -12,10 +12,16 @@
       "gherkin-autocomplete:toggle"
     ]
   },
-  "repository": "https://github.com/andreasonny83/gherkin-snippets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreasonny83/gherkin-snippets"
+  },
+  "bugs": {
+    "url": "https://github.com/andreasonny83/gherkin-snippets/issues"
+  },
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.0.0"
   },
   "dependencies": {}
 }
